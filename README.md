@@ -12,7 +12,9 @@ http://www.uio.no/studier/emner/matnat/astro/AST1100/undervisningsmateriale/unde
 http://www.uio.no/studier/emner/matnat/astro/AST1100/h15/beskjeder/liste-over-vanlige-feil-pa-eksamen.html
 
 
-# relevant problems
+# relevant exam problems
+relevante til avsluttende eksamen er parts A, 2B, 2C, 2D, 2E, 3A, 3B, 3C, 3D og 3E
+M = midtveis ; A = avsluttende ; tall xxxx = årstall ; () - relevante oppg. i det året
 part 2A:
 M2007 (2.9),  M2008 (2.1,  2.4),  M2009 (2.3),  M2010 (8,  9,
 10), M2011 (7, 8), M2012 (8, 9), M2015 (8), A2008 (2.1), A2014 (2)
