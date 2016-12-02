@@ -8,6 +8,10 @@ Eksamenssteder vil bli kunngjort senest to dager før eksamen
 # known errors in exam sollutions 
 http://www.uio.no/studier/emner/matnat/astro/AST1100/undervisningsmateriale/undervisningsmateriale2015/feil-i-eksamensfasiter.html
 
+# list over usual errors 
+http://www.uio.no/studier/emner/matnat/astro/AST1100/h15/beskjeder/liste-over-vanlige-feil-pa-eksamen.html
+
+
 # relevant problems
 part 2A:
 M2007 (2.9),  M2008 (2.1,  2.4),  M2009 (2.3),  M2010 (8,  9,
