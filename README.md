@@ -13,6 +13,9 @@ http://www.uio.no/studier/emner/matnat/astro/AST1100/h15/beskjeder/liste-over-va
 
 
 # relevant exam problems
+
+OBS! A07(1.5, 1.6) kommer ikke på eksamen. utrykket for U = 3M/4 ellernoe er ikke relevant for vår eksamen.
+
 relevante til avsluttende eksamen er parts A, 2B, 2C, 2D, 2E, 3A, 3B, 3C, 3D og 3E
 M = midtveis ; A = avsluttende ; tall xxxx = årstall ; () - relevante oppg. i det året
 
